@@ -1,0 +1,63 @@
+body { 
+    background-color: black;
+    margin-left: 37%;
+    vertical-align: middle;
+}
+
+.request-header{
+    color: whitesmoke;
+    margin-top: 40px;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 41px;
+    font-weight: 600;
+    line-height: 44px;
+    margin-bottom: 0;
+}
+.pickup-input{
+    margin-top: 35px;
+    display: block;
+    font-size: 17px;
+    border: none;
+    background-color: #e0e0e0;
+    padding-left: 15px;
+    padding-right: 130px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+}
+
+.dest-input{
+    font-size: 17px;
+    margin-top: 8px;
+    display: block;
+    border: none;
+    background-color: #e0e0e0;;
+    padding-left: 15px;
+    padding-right: 130px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+}
+.request-button{
+    margin-top: 35px;
+    display: inline-block;
+    border: none;
+    background-color: #e0e0e089;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.later-button{
+    margin-left: 15px;
+    border: none;
+    display: inline-block;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #e0e0e089;
+}
+.logo-pic{
+        width:540px;
+        height: auto;
+}

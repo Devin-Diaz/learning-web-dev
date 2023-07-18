@@ -1,0 +1,110 @@
+p{
+    margin: 0;
+}
+.site-title{
+    margin-top: 60px;
+    display: flex;
+    flex-direction: row;
+}
+.title-text{
+    font-size: 40px;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.kitten-icon{
+    margin-left: 20px;
+    width: 50px;
+    border-radius: 100%;
+    
+}
+.center{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.main-container{
+    border-style: solid;
+    padding-left: 20px;
+    padding-top: 20px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    height: 240px;
+    width: 500px;
+}
+.profile-container{
+    height: 350px;
+    width: 90px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.profile-icon{
+    margin-left: 5px;
+    width: 80px;
+    border-radius: 40px;
+}
+.right-container{
+    display: flex;
+    flex-direction: column;
+    height: 350px;
+    justify-content: space-between;
+    align-items: center;
+}
+.user-info-container{
+    margin-top: 10px;
+    width: 350px;
+    height: 115px;
+    margin-left: 13px;
+    margin-bottom: 50px;
+}
+.username-text{
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.user-acc-span{
+    color: #808080;
+}
+.info-text{
+    font-family: Arial;
+}
+.youtube-link-container{
+    margin-top: 18px;
+    height: 115px;
+    width: 355px;
+    border-radius: 23px;
+    display: flex;
+    flex-direction: row;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+.left-side-link{
+   flex: 15px;
+   border-top-left-radius: 23px;
+   border-bottom-left-radius: 23px;
+    background-color: rgb(211, 211, 211);
+}
+.right-side-link{
+    border-top-right-radius: 23px;
+    border-bottom-right-radius: 23px;
+    flex: 170px;
+    justify-content: center;
+
+}
+.youtube-link-text{
+    font-family: Arial;
+    margin-top: 20px;
+    margin-left: 15px;
+    color: #808080;
+}
+.video-title-text{
+    margin-top: 12px;
+    margin-left: 15px;
+}
+.profile-icon-2{
+    margin-left: 5px;
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+}
